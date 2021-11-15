@@ -1,5 +1,14 @@
 body{
     text-align: center;
     font-family: Arial;
-    color: deeppink;
+    color: gray;
+}
+
+.container{
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid silver;
+    width: 100%;
+    max-width: 300px
 }

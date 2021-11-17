@@ -2,10 +2,6 @@
 un blog increible para el curso de git y github de platzi
 
 
-    <?php
-        echo "Hello world!";
-    ?>
-
 >El curso de git y github
 
 #En este curso veremos:
@@ -16,6 +12,13 @@ un blog increible para el curso de git y github de platzi
 <?php
 echo "hola mundo!";
 ?>
+```
+```shell
+composer required packete/packete
+```
+
+```javascript
+console.log('hola mundo');
 ```
 
 [**link**](https://www.google.com)

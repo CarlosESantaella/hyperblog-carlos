@@ -1,1 +1,9 @@
+#aca se ignoran todos los jpgs
 *.jpg
+#esto es un comentario y así se ignoran carpetas y archivos
+/carpeta
+archivo.html
+.env
+
+#así se hacen excepciones de carpetas ignoradas
+!/carpeta/archivo.html
